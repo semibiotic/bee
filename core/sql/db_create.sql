@@ -1,4 +1,4 @@
--- $Id: db_create.sql,v 1.1 2007-09-28 04:28:27 shadow Exp $
+-- $Id: db_create.sql,v 1.2 2008-01-28 03:50:20 shadow Exp $
 
 \set VERBOSITY terse
 
@@ -243,10 +243,10 @@ CREATE TABLE pcard_actions
 CREATE TABLE pcardslog
 (  event_id    bigint   NOT NULL REFERENCES eventlog (id),        /* event id        */
    action      integer  NOT NULL REFERENCES pcard_actions (code), /* action          */
-   batchno     bigint   NOT NULL,
+   batchno     bigint,
    card_id     bigint   NOT NULL,                                 /* card no         */
    pin         bigint   NOT NULL,                                 /* PIN code        */
-   barcode     bigint   NOT NULL,                                 /* check code      */
+   barcode     bigint,                                            /* check code      */
    val         double precision NOT NULL,                         /* sum or value    */  
    res_id      bigint   REFERENCES resources (id),                /* resource        */
    plan_id     bigint   REFERENCES plans     (id),                /* tariff plan     */
