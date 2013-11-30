@@ -12,6 +12,7 @@ TODOs
  * docs
  * (?) report utility
  * (?) cashier console
+* Option to build without PostgreSQL dependence (without v2 stub)
 
 Disclaimers
 ===
