@@ -19,6 +19,8 @@
 
 #include "beecutlog.h"
 
+#error FIXME: Program not finished !
+
 #ifndef MAXRECS
 #define MAXRECS 32768
 #endif
