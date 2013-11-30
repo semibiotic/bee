@@ -1,4 +1,4 @@
-/* $RuOBSD: command.h,v 1.10 2008/11/27 10:33:11 shadow Exp $ */
+/* $RuOBSD: command.h,v 1.11 2009/04/09 06:56:27 shadow Exp $ */
 
 #ifndef __COMMAND_H__
 #define __COMMAND_H__

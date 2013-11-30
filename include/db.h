@@ -1,4 +1,4 @@
-/* $RuOBSD: db.h,v 1.17 2009/04/03 09:49:41 shadow Exp $ */
+/* $RuOBSD: db.h,v 1.18 2009/04/07 06:47:07 shadow Exp $ */
 #ifndef __DB_H__
 #define __DB_H__
 

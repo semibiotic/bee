@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.2 2001/09/11 03:14:23 shadow Exp $
+# $RuOBSD: Makefile,v 1.3 2004/05/08 17:21:02 shadow Exp $
 
 
 BINDIR = /usr/local/bin/bee

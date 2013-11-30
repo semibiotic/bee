@@ -1,5 +1,5 @@
 #!/bin/sh
-# $RuOBSD: intractl.sh,v 1.4 2002/06/01 19:13:56 shadow Exp $
+# $RuOBSD: intractl.sh,v 1.5 2002/10/31 20:41:34 shadow Exp $
 
 # script to control Cisco's Catalyst 1900 series switch ports via SNMP
 

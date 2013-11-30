@@ -1,5 +1,5 @@
 #!/bin/sh
-# $RuOBSD: beetraff-ipstatd.sh,v 1.7 2005/07/30 22:43:13 shadow Exp $
+# $RuOBSD: beetraff-ipstatd.sh,v 1.8 2005/08/01 00:11:00 shadow Exp $
 
 #
 # for Local firewall

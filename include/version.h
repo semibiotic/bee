@@ -1,4 +1,4 @@
-/* $RuOBSD: version.h,v 1.33 2009/05/14 17:02:06 shadow Exp $ */
+/* $RuOBSD: version.h,v 1.34 2009/11/28 10:40:57 shadow Exp $ */
 #ifndef __VERSION_H__
 #define __VERSION_H__
 

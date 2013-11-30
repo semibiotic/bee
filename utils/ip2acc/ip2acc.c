@@ -1,4 +1,4 @@
-/* $RuOBSD: ip2acc.c,v 1.1 2002/10/24 11:13:45 shadow Exp $ */
+/* $RuOBSD: ip2acc.c,v 1.2 2008/08/27 10:19:28 shadow Exp $ */
 #include <stdio.h>
 #include <string.h>
 #include <netdb.h>

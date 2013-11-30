@@ -1,4 +1,4 @@
--- $Id: db_create.sql,v 1.2 2008-01-28 03:50:20 shadow Exp $
+-- $RuOBSD: db_create.sql,v 1.2 2008/01/28 03:50:20 shadow Exp $
 
 \set VERBOSITY terse
 

@@ -1,4 +1,4 @@
--- $Id: db_procs.sql,v 1.3 2008-01-28 03:50:20 shadow Exp $
+-- $Id: db_procs.sql,v 1.3 2008/01/28 03:50:20 shadow Exp $
 
 BEGIN TRANSACTION;
 

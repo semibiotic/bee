@@ -1,4 +1,4 @@
-/* $RuOBSD: clubctl.c,v 1.1 2002/08/09 03:24:31 shadow Exp $ */
+/* $RuOBSD: clubctl.c,v 1.2 2008/08/27 10:19:28 shadow Exp $ */
 #include <stdio.h>
 #include <string.h>
 #include <netdb.h>

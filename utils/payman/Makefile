@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.13 2007/09/27 05:59:46 shadow Exp $
+# $RuOBSD: Makefile,v 1.14 2008/08/20 07:49:04 shadow Exp $
 NOMAN=
 PROG=	payman
 SRCS=	dialog.cc dispatch.cc display.cc      \

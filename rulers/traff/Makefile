@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.2 2001/09/12 05:03:21 tm Exp $
+# $RuOBSD: Makefile,v 1.3 2002/06/02 13:20:28 shadow Exp $
 NOMAN=
 PROG=	beeipf
 SRCS=	beeipf.c

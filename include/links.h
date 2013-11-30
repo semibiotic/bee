@@ -1,4 +1,4 @@
-/* $RuOBSD: links.h,v 1.11 2007/09/25 14:49:01 shadow Exp $ */
+/* $RuOBSD: links.h,v 1.12 2009/11/28 10:14:46 shadow Exp $ */
 
 #ifndef __LINKS_H__
 #define __LINKS_H__

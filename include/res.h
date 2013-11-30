@@ -1,4 +1,4 @@
-/* $RuOBSD: res.h,v 1.14 2007/09/25 14:49:01 shadow Exp $ */
+/* $RuOBSD: res.h,v 1.15 2008/01/28 03:47:18 shadow Exp $ */
 
 #ifndef __RES_H__
 #define __RES_H__

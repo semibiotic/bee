@@ -1,4 +1,4 @@
-/* $RuOBSD: beerep.h,v 1.10 2007/09/10 04:47:58 shadow Exp $*/
+/* $RuOBSD: beerep.h,v 1.11 2009/04/07 03:00:00 shadow Exp $*/
 #ifndef __BEEREP_H__
 #define __BEEREP_H__
 

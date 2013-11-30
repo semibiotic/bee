@@ -1,4 +1,4 @@
-/* $RuOBSD: ipc.c,v 1.7 2004/09/11 14:22:04 shadow Exp $ */
+/* $RuOBSD: ipc.c,v 1.8 2007/09/24 12:52:42 shadow Exp $ */
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>

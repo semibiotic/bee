@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.2 2001/09/12 05:03:21 tm Exp $
+# $RuOBSD: Makefile,v 1.1 2002/08/09 03:24:31 shadow Exp $
 NOMAN=
 PROG=	clubctl
 SRCS=	clubctl.c 

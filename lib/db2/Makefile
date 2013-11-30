@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.5 2004/05/02 21:55:53 shadow Exp $
+# $RuOBSD: Makefile,v 1.1 2007/09/19 04:49:20 shadow Exp $
 
 SRCS=  db.c
 LIB=   bee2db

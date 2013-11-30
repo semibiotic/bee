@@ -1,4 +1,4 @@
-/* $RuOBSD: getacc.c,v 1.3 2002/08/09 03:48:16 shadow Exp $ */
+/* $RuOBSD: getacc.c,v 1.4 2008/08/27 10:19:28 shadow Exp $ */
 #include <stdio.h>
 #include <string.h>
 #include <netdb.h>

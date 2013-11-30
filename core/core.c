@@ -1,4 +1,4 @@
-/* $RuOBSD: core.c,v 1.42 2009/11/28 10:26:16 shadow Exp $ */
+/* $RuOBSD: core.c,v 1.43 2010/11/13 22:18:39 shadow Exp $ */
 
 #include <sys/cdefs.h>
 #include <syslog.h>

@@ -1,4 +1,4 @@
-s/* $RuOBSD: prox.c,v 1.5 2003/04/29 16:43:18 tm Exp $ */
+s/* $RuOBSD: prox.c,v 1.6 2008/08/27 10:19:27 shadow Exp $ */
 #include <stdio.h>
 #include <syslog.h>
 #include <sys/types.h>

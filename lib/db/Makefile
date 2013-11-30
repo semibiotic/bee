@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.8 2007/09/25 14:49:01 shadow Exp $
+# $RuOBSD: Makefile,v 1.9 2009/11/28 10:04:40 shadow Exp $
 PROG=  billd
 SRCS=  db.c acc.c log.c links.c res.c tariffs.c conf.c
 LIB=   beedb

@@ -1,6 +1,6 @@
-# $RuOBSD: Makefile,v 1.3 2002/06/02 13:20:28 shadow Exp $
+# $RuOBSD: Makefile,v 1.1 2010/11/13 22:34:45 shadow Exp $
 NOMAN=
-PROG=	beemkacl
+PROG=	beemkacl_c3745
 SRCS=	mkacl.c
 BINDIR=/usr/local/bin/
 CFLAGS+=-I${.CURDIR} -I../../include

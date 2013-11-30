@@ -1,4 +1,4 @@
-/* $RuOBSD: command.c,v 1.52 2009/05/14 17:02:06 shadow Exp $ */
+/* $RuOBSD: command.c,v 1.53 2009/11/28 10:21:39 shadow Exp $ */
 
 #include <strings.h>
 #include <stdio.h>

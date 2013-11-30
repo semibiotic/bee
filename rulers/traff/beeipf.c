@@ -1,4 +1,4 @@
-/* $RuOBSD: beeipf.c,v 1.5 2003/09/22 02:35:07 shadow Exp $ */
+/* $RuOBSD: beeipf.c,v 1.6 2005/03/26 06:41:03 shadow Exp $ */
 
 #include <stdio.h>
 #include <string.h>

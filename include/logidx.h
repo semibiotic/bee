@@ -1,4 +1,4 @@
-/* $RuOBSD$ */
+/* $RuOBSD: logidx.h,v 1.1 2009/04/07 02:53:17 shadow Exp $ */
 
 #ifndef __LOGIDX_H__
 #define __LOGIDX_H__

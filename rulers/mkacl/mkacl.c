@@ -1,4 +1,4 @@
-/* $RuOBSD: beeipf.c,v 1.6 2005/03/26 06:41:03 shadow Exp $ */
+/* $RuOBSD: mkacl.c,v 1.1 2010/11/13 22:34:45 shadow Exp $ */
 
 #include <stdio.h>
 #include <string.h>
@@ -16,10 +16,10 @@ typedef struct
 } hostspec_t;
 
 
-char * head_add = "/usr/bin/rsh -l bee 192.168.213.201 \"access-template 100 BEE ";
+char * head_add = "/usr/bin/rsh -l bee 192.168.213.208 \"access-template 100 BEE ";
 char * tail_add = " any\"";
 
-char * head_rm  = "/usr/bin/rsh -l bee 192.168.213.201 \"clear access-template 100 BEE ";
+char * head_rm  = "/usr/bin/rsh -l bee 192.168.213.208 \"clear access-template 100 BEE ";
 char * tail_rm  = " any\"";
 
 char * rshead  = "";

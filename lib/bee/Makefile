@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.6 2007/09/25 14:49:01 shadow Exp $
+# $RuOBSD: Makefile,v 1.7 2007/09/27 05:59:46 shadow Exp $
 PROG=  bee
 SRCS=  beelib.c da.c g3c.c lists.c log.c misc.c recode.c timer.c netio.c
 LIB=   bee

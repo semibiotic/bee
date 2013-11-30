@@ -1,5 +1,5 @@
 #!/bin/sh
-# $RuOBSD: beetraff-cnupm.sh,v 1.1 2005/07/30 22:43:13 shadow Exp $
+# $RuOBSD: beetraff-cnupm.sh,v 1.2 2005/08/01 00:11:00 shadow Exp $
 
 #
 # for Local firewall

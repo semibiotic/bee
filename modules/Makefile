@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.7 2005/07/30 22:43:11 shadow Exp $
+# $RuOBSD: Makefile,v 1.8 2007/09/25 14:49:01 shadow Exp $
 
 SUBDIR=	traff traff-total
 

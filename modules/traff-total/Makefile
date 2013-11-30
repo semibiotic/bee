@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.1 2007/09/15 15:55:20 shadow Exp $
+# $RuOBSD: Makefile,v 1.2 2007/09/25 14:49:01 shadow Exp $
 NOMAN=
 PROG=	beetraff-tot
 SRCS=	beetraff.c

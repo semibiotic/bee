@@ -1,5 +1,5 @@
 #!/bin/sh
-# $RuOBSD: bee-cnupmdump.sh,v 1.1 2005/07/30 22:43:13 shadow Exp $
+# $RuOBSD: bee-cnupmdump.sh,v 1.3 2008/11/28 04:39:29 shadow Exp $
 
 IFACE="pflog0"
 

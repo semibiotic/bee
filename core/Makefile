@@ -1,4 +1,4 @@
-# $RuOBSD: Makefile,v 1.10 2008/08/20 02:48:54 shadow Exp $
+# $RuOBSD: Makefile,v 1.11 2009/04/10 02:53:14 shadow Exp $
 NOMAN=
 PROG=	bee
 SRCS=	core.c command.c res.c sqlcfg.c queries.c

@@ -1,4 +1,4 @@
-/* $RuOBSD: ipchk.c,v 1.3 2007/09/25 14:25:18 shadow Exp $ */
+/* $RuOBSD: ipchk.c,v 1.4 2008/08/20 03:03:17 shadow Exp $ */
 
 #include <sys/types.h>
 #include <sys/time.h>

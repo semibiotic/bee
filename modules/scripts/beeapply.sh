@@ -1,5 +1,5 @@
 #!/bin/sh
-# $RuOBSD: beeapply.sh,v 1.7 2005/04/05 08:45:54 shadow Exp $
+# $RuOBSD: beeapply.sh,v 1.8 2005/08/01 00:11:00 shadow Exp $
 
 
 # generated PF rules set-up (local)

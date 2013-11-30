@@ -1,4 +1,4 @@
-/* $RuOBSD: ipc.h,v 1.5 2003/07/17 07:49:28 shadow Exp $ */
+/* $RuOBSD: ipc.h,v 1.6 2007/09/28 04:28:27 shadow Exp $ */
 
 #ifndef __IPC_H__
 #define __IPC_H__

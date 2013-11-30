@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# $RuOBSD: autoreg.sh,v 1.1 2001/09/18 05:36:13 tm Exp $
+# $RuOBSD: autoreg.sh,v 1.2 2001/11/22 04:41:49 tm Exp $
 # new user account registration example
 
 if [ $# -eq 1 ]; then

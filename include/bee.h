@@ -1,4 +1,4 @@
-/* $RuOBSD: bee.h,v 1.12 2007/09/23 19:49:12 shadow Exp $ */
+/* $RuOBSD: bee.h,v 1.13 2007/09/24 12:56:21 shadow Exp $ */
 
 #ifndef __BEE_H__
 #define __BEE_H__

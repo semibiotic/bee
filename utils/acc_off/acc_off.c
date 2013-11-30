@@ -1,4 +1,4 @@
-/* $RuOBSD: acc_off.c,v 1.3 2002/10/24 15:08:31 shadow Exp $ */
+/* $RuOBSD: acc_off.c,v 1.4 2005/06/07 17:11:01 shadow Exp $ */
 #include <stdio.h>
 #include <string.h>
 #include <netdb.h>

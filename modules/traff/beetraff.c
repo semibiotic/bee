@@ -1,4 +1,4 @@
-/* $RuOBSD: beetraff.c,v 1.15 2009/04/09 06:56:27 shadow Exp $ */
+/* $RuOBSD: beetraff.c,v 1.16 2009/04/10 03:01:35 shadow Exp $ */
 
 // Hack to output traffic statistics for SQL
 //#define SQLSTAT_HACK
